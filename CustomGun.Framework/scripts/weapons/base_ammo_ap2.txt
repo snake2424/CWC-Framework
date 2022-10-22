@@ -1,0 +1,18 @@
+WeaponData
+{
+	Mods
+	{
+		ammo_rnd_ap
+		{
+			"titanarmor_critical_hit_required"              "0"
+			"damage_near_value_titanarmor"					"*2.0"
+			"damage_far_value_titanarmor" 					"*2.0"
+			"damage_heavyarmor_nontitan_scale"				"*1.0"
+			"damage_heavyarmor_nontitan_scale"				"*2.0"
+			"viewkick_pitch_softScale"						"*1.25"
+			"viewkick_pitch_hardScale"						"*1.25"
+			"viewkick_yaw_softScale"  						"*1.25"
+			"viewkick_yaw_hardScale"  						"*1.25"
+		}
+	}
+}

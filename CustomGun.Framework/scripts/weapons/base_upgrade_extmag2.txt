@@ -1,0 +1,22 @@
+WeaponData
+{
+	Mods
+	{
+		upgrade_extmag_1
+		{	
+			"ammo_clip_size"   								"*1.25"
+		}
+		upgrade_extmag_2
+		{	
+			"ammo_clip_size"   								"*1.5"
+		}
+		upgrade_extmag_3
+		{	
+			"ammo_clip_size"   								"*1.75"
+		}
+		upgrade_extmag_4
+		{	
+			"ammo_clip_size"   								"*2.0"
+		}
+	}
+}

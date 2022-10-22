@@ -1,0 +1,10 @@
+WeaponData
+{
+	Mods
+	{
+		hopup_overclock
+		{
+			"fire_rate"   						"*2.0"
+		}
+	}
+}

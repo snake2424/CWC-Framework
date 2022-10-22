@@ -1,0 +1,18 @@
+WeaponData
+{
+	Mods
+	{
+		hopup_solarpower
+		{
+			"regen_ammo_refill_rate"						"2.0"
+			"regen_ammo_refill_start_delay"					"1.0"
+			"ammo_no_remove_from_stockpile"					"1"
+			"reload_enabled"  								"0"
+			"fx_muzzle_flash_view"							"wpn_muzzleflash_pulse_FP"
+			"fx_muzzle_flash_world"							"wpn_muzzleflash_pulse"
+			"tracer_effect"   								"P_wpn_tracer_pulse_BC"
+			"tracer_effect_first_person"  					"P_wpn_tracer_pulse_BC"
+			"impact_effect_table"		 					"pulse_bullet"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+WeaponData
+{
+	Mods
+	{
+		ammo_rnd_explosive
+		{	
+			"explosion_damage"								"20"
+			"explosion_inner_radius"  						"20"
+			"explosionradius" 								"60"
+			"impact_effect_table" 							"exp_smr"
+		}
+	}
+}

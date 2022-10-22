@@ -1,0 +1,23 @@
+{
+	"ApiId" : "icepick",
+	"Name" : "Custom Weapon Creation Framework",
+	"Description" : "Custom weapons, without relying off of thylords sandbox.",
+	"Authors" : [
+		"EliteSnake2424",
+		"Thylord (i stole some of his stuff sorry)"
+	],
+	"Contacts" : [
+		"EliteSnake2424#8021"
+	],
+	"Version" : "1",
+	"CustomScripts": [
+                 {
+			"Path": "sh_precache.nut",
+			"RunOn": "SERVER || CLIENT",
+			"ClientCallback": "Sh_Precache",
+			"ServerCallback": "Sh_Precache"
+		},
+                 
+	]
+
+}

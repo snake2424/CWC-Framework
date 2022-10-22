@@ -1,0 +1,18 @@
+WeaponData
+{
+	Mods
+	{
+		ammo_rnd_impulse
+		{	
+			"explosion_damage"								"1"
+			"explosion_inner_radius"  						"50"
+			"explosionradius" 								"100"
+			"impulse_force"   								"10000"
+			"fx_muzzle_flash_view"							"wpn_muzzleflash_pulse_FP"
+			"fx_muzzle_flash_world"							"wpn_muzzleflash_pulse"
+			"tracer_effect"   								"P_wpn_tracer_pulse_BC"
+			"tracer_effect_first_person"  					"P_wpn_tracer_pulse_BC"
+			"impact_effect_table" 							"exp_super_spectre"
+		}
+	}
+}

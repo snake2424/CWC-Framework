@@ -1,0 +1,14 @@
+WeaponData
+{
+	Mods
+	{
+		ammo_rnd_tracer
+		{	
+			"spread_stand_hip" 								"1.0"
+			"spread_stand_hip_run" 							"1.0"
+			"spread_stand_hip_sprint"						"1.0"
+			"spread_crouch_hip"								"1.0"
+			"spread_air_hip"	   							"1.0"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+WeaponData
+{
+	Mods
+	{
+		ammo_rnd_fmj
+		{
+			"critical_hit_damage_scale"						"*4.0"
+			"damage_headshot_scale"							"*4.0"
+			"viewkick_pitch_softScale"						"*1.25"
+			"viewkick_pitch_hardScale"						"*1.25"
+			"viewkick_yaw_softScale"  						"*1.25"
+			"viewkick_yaw_hardScale"  						"*1.25"
+		}
+	}
+}

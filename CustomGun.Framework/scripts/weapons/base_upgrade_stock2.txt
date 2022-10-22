@@ -1,0 +1,30 @@
+WeaponData
+{
+	Mods
+	{
+		upgrade_stock_1
+		{	
+			"spread_max_kick_stand_hip"						"*0.85"
+			"spread_max_kick_crouch_hip"					"*0.85"
+			"spread_max_kick_air_hip"						"*0.85"
+		}
+		upgrade_stock_2
+		{	
+			"spread_max_kick_stand_hip"						"*0.7"
+			"spread_max_kick_crouch_hip"					"*0.7"
+			"spread_max_kick_air_hip"						"*0.7"
+		}
+		upgrade_stock_3
+		{	
+			"spread_max_kick_stand_hip"						"*0.55"
+			"spread_max_kick_crouch_hip"					"*0.55"
+			"spread_max_kick_air_hip"						"*0.55"
+		}
+		upgrade_stock_4
+		{	
+			"spread_max_kick_stand_hip"						"*0.4"
+			"spread_max_kick_crouch_hip"					"*0.4"
+			"spread_max_kick_air_hip"						"*0.4"
+		}
+	}
+}

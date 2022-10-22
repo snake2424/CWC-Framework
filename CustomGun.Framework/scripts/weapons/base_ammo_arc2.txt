@@ -1,0 +1,16 @@
+WeaponData
+{
+	Mods
+	{
+		ammo_rnd_arc
+		{	
+			"damage_near_value"   							"*1.4"
+			"damage_far_value"								"*1.4"
+			"fx_muzzle_flash_view"							"wpn_muzzleflash_pulse_FP"
+			"fx_muzzle_flash_world"							"wpn_muzzleflash_pulse"
+			"tracer_effect"   								"P_wpn_tracer_pulse_BC"
+			"tracer_effect_first_person"  					"P_wpn_tracer_pulse_BC"
+			"impact_effect_table"		 					"pulse_bullet"
+		}
+	}
+}
